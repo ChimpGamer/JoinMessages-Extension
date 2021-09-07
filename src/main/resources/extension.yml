@@ -1,0 +1,6 @@
+name: JoinMessages
+version: ${version}
+main: nl.chimpgamer.networkmanager.extensions.joinmessages.JoinMessages
+description: NetworkManager JoinMessages Extension
+authors: [ChimpGamer]
+api-version: 2.10.0
